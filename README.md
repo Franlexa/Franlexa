@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Franlexa
+- 👋 Hi, I’m Francis Nwagbo
 - 👀 I’m interested in Autonomous Vehicles and Systems, Application of AI to Autonomous Systems.
 - 🌱 I’m currently learning Cyber Physical Social Systems
 - 💞️ I’m looking to collaborate on Artificial Intelligence,Software Engineering,web development,Multi-agent programming,Machine Learning.
